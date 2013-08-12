@@ -291,22 +291,22 @@
 			]
 		},
 		{
-			"name": "SelectionTools",
-			"details": "https://github.com/simonrad/sublime-selection-tools",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"details": "https://github.com/simonrad/sublime-selection-tools/tree/master"
-				}
-			]
-		},
-		{
 			"name": "Select Quoted",
 			"details": "https://github.com/int3h/SublimeSelectQuoted",
 			"releases": [
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/int3h/SublimeSelectQuoted/tags"
+				}
+			]
+		},
+		{
+			"name": "SelectionTools",
+			"details": "https://github.com/simonrad/sublime-selection-tools",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"details": "https://github.com/simonrad/sublime-selection-tools/tree/master"
 				}
 			]
 		},
@@ -1518,7 +1518,7 @@
 			]
 		},
 		{
-			"details": "https://github.com/ostinelli/SublimErl/tree/package",
+			"details": "https://github.com/ostinelli/SublimErl",
 			"releases": [
 				{
 					"sublime_text": "<3000",
